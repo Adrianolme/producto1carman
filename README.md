@@ -41,8 +41,8 @@ Esta estrategia ayuda a mantener un control adecuado sobre el ciclo de vida de l
 <div style="text-align: center;">
   <h2>WireFrames</h2>
   <img src="https://github.com/Adrianolme/producto1carman/blob/master/Login.png" width="400" style="border-radius: 15px;" />
-  <img src="https://github.com/Adrianolme/producto1carman/blob/master/Admin.png" width="200" style="border-radius: 15px;" />
-  <img src="https://github.com/Adrianolme/producto1carman/blob/master/Citas.png" width="200" style="border-radius: 15px;" />
+  <img src="https://github.com/Adrianolme/producto1carman/blob/master/Admin.png" width="190" style="border-radius: 15px;" />
+  <img src="https://github.com/Adrianolme/producto1carman/blob/master/Citas.png" width="375" style="border-radius: 15px;" />
 </div>
 
 <div style="text-align: center;">
