@@ -40,5 +40,5 @@ Esta estrategia ayuda a mantener un control adecuado sobre el ciclo de vida de l
 
 ## Diagrama de flujo 
 
-![] ()
+![](https://github.com/Adrianolme/producto1carman/blob/master/Diagrama%20de%20Flujo.png)
 
