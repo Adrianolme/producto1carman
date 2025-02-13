@@ -43,7 +43,7 @@ Esta estrategia ayuda a mantener un control adecuado sobre el ciclo de vida de l
   <img src="https://github.com/Adrianolme/producto1carman/blob/master/Login.png" width="400" style="border-radius: 15px;" />
 </div>
 <div style="text-align: center;">
-  <img src="https://github.com/Adrianolme/producto1carman/blob/master/Admin.png" width="400" style="border-radius: 15px;" />
+  <img src="https://github.com/Adrianolme/producto1carman/blob/master/Admin.png" width="200" style="border-radius: 15px;" />
 </div>
 
 
