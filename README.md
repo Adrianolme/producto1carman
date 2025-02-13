@@ -38,3 +38,7 @@ Se ha adoptado la estrategia de **Semantic Versioning (SemVer)** para gestionar 
 
 Esta estrategia ayuda a mantener un control adecuado sobre el ciclo de vida de la aplicación, facilita la colaboración en el desarrollo y asegura que los usuarios siempre sepan qué esperar de cada nueva versión.
 
+## Diagrama de flujo 
+
+![] ()
+
