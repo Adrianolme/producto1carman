@@ -47,8 +47,7 @@ Esta estrategia ayuda a mantener un control adecuado sobre el ciclo de vida de l
 </div>
 
 <div style="text-align: center;">
-  <img src="https://github.com/Adrianolme/producto1carman/blob/master/Citas.png
-" width="200" style="border-radius: 15px;" />
+  <img src="https://github.com/Adrianolme/producto1carman/blob/master/Citas.png" width="200" style="border-radius: 15px;" />
 </div>
 
 
