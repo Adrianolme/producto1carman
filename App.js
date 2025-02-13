@@ -1,10 +1,11 @@
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
-import {HomeScreen} from './component/HomeScreen';
-import {LoginScreen} from './component/LoginScreen';
+import {HomeScreen} from './components/HomeScreen';
+import {LoginScreen} from './components/LoginScreen';
 import SettingsScreen from './components/SettingsScreen';
-import RegisterScreen from './component/RegisterScreen';
+import RegisterScreen from './components/RegisterScreen';
+import ScheduleScreen from './components/ScheduleScreen';
 
 const Tab = createBottomTabNavigator();
 
